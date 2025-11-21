@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Serrano Segura
 
-<!--
-**danielssTech/danielssTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Engineering student at Polytechnic of Leiria (Portugal)  
+💻 Web Developer | DevOps Enthusiast | Future Cloud Engineer  
+🚀 Passionate about building modern web applications, automation and clean architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Frontend:**  
+Vue.js · JavaScript · HTML5 · CSS3 · Axios
+
+**Backend:**  
+FastAPI · Laravel · Python · PHP · Node.js (learning)
+
+**DevOps & Infrastructure:**  
+Linux (Ubuntu) · Nginx · Docker (basic) · Git & GitHub · Monitoring (logs & metrics)
+
+**Databases:**  
+PostgreSQL · MySQL · SQL
+
+**Tools:**  
+VS Code · Postman · Jira · GitHub Projects
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 TechProducts Homelab — Full Stack + DevOps  
+API built with FastAPI + PostgreSQL, deployed on Linux with Nginx reverse proxy.  
+Includes monitoring, logs and structured Git workflow.  
+➡️ [Repository Link](https://github.com/danielssTech/homelab-tech-products)
+
+### 🔹 Card Matching Game — Vue.js + Laravel (WIP)  
+Interactive card-matching game with frontend in Vue.js and backend in Laravel.  
+Includes GameState, EventBus and BotEngine modules.  
+➡️ [Repository Link](https://github.com/danielssTech/Card-Matching-Game)
+
+---
+
+## 🌱 Currently Learning  
+- Cloud Engineering (AWS + DevOps)  
+- React & WordPress (for internship opportunities)  
+
+---
+
+## 📫 Contact  
+**Email:** danielss.tech195@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/daniel-serrano-segura-06130739a  
+
