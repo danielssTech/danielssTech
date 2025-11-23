@@ -47,5 +47,5 @@ Includes GameState, EventBus and BotEngine modules.
 
 ## 📫 Contact  
 **Email:** danielss.tech195@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/daniel-serrano-segura-06130739a  
+**LinkedIn:** https://www.linkedin.com/in/daniel-serrano-segura
 
