@@ -5,23 +5,23 @@
   </a>
 </p>
 
-<table align="center">
+<table>
   <tr>
-    <td width="45%">
+    <td width="55%" valign="middle">
 
-    👨‍💻 About Me: 
-    
-    - From Ecuador, graduated in Computer Science in Portugal ✈️.
-    
-    - Passionate about technology, software development, and building scalable systems ⚙️🛠️.
-    
-    - Currently expanding my knowledge in Cloud Computing and Software Architecture 🌩️🧱.
+<h3>👨‍💻 About Me</h3>
+
+<ul>
+  <li>🇪🇨 From Ecuador, graduated in Computer Science in Portugal ✈️.</li>
+  <li>Passionate about technology, software development, and building scalable systems ⚙️🛠️.</li>
+  <li>Currently expanding my knowledge in Cloud Computing and Software Architecture 🌩️🧱.</li>
+</ul>
+
 </td>
-    <td width="55%" align="left">
-      <img src="assets/vintage-computer.gif" width="380">
-    </td>
-
-</tr>
+<td width="45%" align="center" valign="middle">
+  <img src="assets/vintage-computer.gif" width="320">
+</td>
+  </tr>
 </table>
 
 # ♾️ Tech Stack:
