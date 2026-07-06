@@ -43,10 +43,12 @@
 </p>
 
 
-
-
 ## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-serrano-segura/)
+<a href="mailto:danielss.tech195@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/daniel-serrano-segura/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
