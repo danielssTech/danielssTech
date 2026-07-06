@@ -15,8 +15,8 @@
 - Currently expanding my knowledge in Cloud Computing and Software Architecture 🌩️🧱.
 
 <p>
-  <img src="assets/ecuador.png" width="140" hspace="0">
-  <img src="assets/portugal.png" width="140" hspace="0">
+  <img src="assets/ecuador.png" width="140" hspace="15">
+  <img src="assets/portugal.png" width="140">
 </p>
 
 <br clear="right"/>
