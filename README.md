@@ -5,10 +5,11 @@
   </a>
 </p>
 
+---
 
 <img align="right" alt="Coding" width="340" src="assets/vintage-computer.gif">
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me:
 
 - From Ecuador, graduated in Computer Science in Portugal ✈️.
 - Passionate about technology, software development, and building scalable systems ⚙️🛠️.
