@@ -19,7 +19,6 @@
   <img src="assets/portugal.png" width="140">
 </p>
 
-<br clear="right"/>
 
 # ♾️ Tech Stack:
 
