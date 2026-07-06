@@ -14,10 +14,10 @@
 - Passionate about technology, software development, and building scalable systems ⚙️🛠️.
 - Currently expanding my knowledge in Cloud Computing and Software Architecture 🌩️🧱.
 
-<img  alt="Coding" width="140" src="assets/ecuador.png">
-<img  alt="Coding" width="140" src="assets/portugal.png">
-
-
+<p>
+  <img src="assets/ecuador.png" width="140" hspace="0">
+  <img src="assets/portugal.png" width="140" hspace="0">
+</p>
 
 <br clear="right"/>
 
