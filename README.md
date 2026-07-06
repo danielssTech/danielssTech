@@ -34,11 +34,12 @@
 
 <p>
   <img src="https://github-readme-stats.shion.dev/api?username=danielssTech&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=danielssTech&theme=onedark&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danielssTech&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danielssTech&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=danielssTech&theme=onedark&hide_border=false" />
+  
 </p>
 
 
